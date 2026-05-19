@@ -1,0 +1,24 @@
+# Markdown Documentation Creation Guidelines
+
+When generating markdown (.md) summaries for notebooks or code files, please adhere to the following structure and format requested by the user:
+
+1. **Introduction:**
+   - What is the library/tool? (e.g., What is Pandas/NumPy?)
+   - Why do we use it?
+   - What is its practical purpose and where is it actually used in real-world scenarios?
+
+2. **Core Concepts / Data Structures:**
+   - Explain the primary data structures or concepts involved.
+   - Show how they actually look conceptually.
+   - Provide simple, easy-to-understand creation syntax or basic code examples.
+
+3. **Comparisons & Context (If applicable):**
+   - Compare the current tool with previously learned tools (e.g., What is the difference between NumPy and Pandas? Why do we need Pandas when we already have NumPy?). Focus on the "why".
+
+4. **Functions, Methods, & Usage:**
+   - List and concisely explain the different functions, attributes, and methods that are present in the provided source notebook/file.
+   - Group them logically (e.g., Loading Data, Viewing Data, Accessing Data, Modifying Data).
+
+5. **Overall Executive Summary (Crucial):**
+   - At the very end of the document, provide a highly summarized recap of everything covered.
+   - The primary goal of this section is to serve as a quick refresher. If the user returns after several days, they should be able to read just this summary section to quickly grasp the core concepts and get the most out of the file.
